@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExercicioGestaoLocadora")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+217b55b60f2cbc577b548584eabb24ea0dc42519")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExercicioGestaoLocadora")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExercicioGestaoLocadora")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
