@@ -26,7 +26,7 @@ namespace ExercicioGestaoLocadora
         {
             foreach(var item in lista)
             {
-                Console.WriteLine(item.ToString());
+                Console.WriteLine($"Id: {item.Id}, Nome: {item.Nome}");
             }
         }
     }

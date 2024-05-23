@@ -11,6 +11,13 @@ namespace ExercicioGestaoLocadora
         public string Titulo { get; set; }
         public int Ano { get; set; }
 
+        public ItemLocadora(int codigo, string titulo, int ano)
+        {
+            this.Codigo = codigo;
+            this.Titulo = titulo;
+            this.Ano = ano;
+        }
+
         public abstract void ExibirDetalhe();
     }
 }

@@ -7,11 +7,16 @@ namespace ExercicioGestaoLocadora
 {
     public class Documentario: ItemLocadora
     {
+
         public string Assunto { get; set; }
 
+        public Documentario(int codigo, string titulo, int ano, string assunto) : base(codigo, titulo, ano)
+        {
+            this.Assunto = assunto;
+        }
         public override void ExibirDetalhe()
         {
-            throw new NotImplementedException();
+            Console.WriteLine($"[Código: {this.Codigo}, Título: {this.Titulo}, Ano: {this.Ano}, Assunto: {this.Assunto}]");
         }
     }
 }

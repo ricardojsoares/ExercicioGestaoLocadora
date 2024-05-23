@@ -1,0 +1,15 @@
+C:\Users\ricardo.soares\CSharp\Lista de exercicios - POO\ExercicioGestaoLocadora\obj\Debug\net8.0\ExercicioGestaoLocadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricardo.soares\CSharp\Lista de exercicios - POO\ExercicioGestaoLocadora\obj\Debug\net8.0\ExercicioGestaoLocadora.AssemblyInfoInputs.cache
+C:\Users\ricardo.soares\CSharp\Lista de exercicios - POO\ExercicioGestaoLocadora\obj\Debug\net8.0\ExercicioGestaoLocadora.AssemblyInfo.cs
+C:\Users\ricardo.soares\CSharp\Lista de exercicios - POO\ExercicioGestaoLocadora\obj\Debug\net8.0\ExercicioGestaoLocadora.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.soares\CSharp\Lista de exercicios - POO\ExercicioGestaoLocadora\obj\Debug\net8.0\ExercicioGestaoLocadora.sourcelink.json
+C:\Users\ricardo.soares\CSharp\Lista de exercicios - POO\ExercicioGestaoLocadora\bin\Debug\net8.0\ExercicioGestaoLocadora.exe
+C:\Users\ricardo.soares\CSharp\Lista de exercicios - POO\ExercicioGestaoLocadora\bin\Debug\net8.0\ExercicioGestaoLocadora.deps.json
+C:\Users\ricardo.soares\CSharp\Lista de exercicios - POO\ExercicioGestaoLocadora\bin\Debug\net8.0\ExercicioGestaoLocadora.runtimeconfig.json
+C:\Users\ricardo.soares\CSharp\Lista de exercicios - POO\ExercicioGestaoLocadora\bin\Debug\net8.0\ExercicioGestaoLocadora.dll
+C:\Users\ricardo.soares\CSharp\Lista de exercicios - POO\ExercicioGestaoLocadora\bin\Debug\net8.0\ExercicioGestaoLocadora.pdb
+C:\Users\ricardo.soares\CSharp\Lista de exercicios - POO\ExercicioGestaoLocadora\obj\Debug\net8.0\ExercicioGestaoLocadora.dll
+C:\Users\ricardo.soares\CSharp\Lista de exercicios - POO\ExercicioGestaoLocadora\obj\Debug\net8.0\refint\ExercicioGestaoLocadora.dll
+C:\Users\ricardo.soares\CSharp\Lista de exercicios - POO\ExercicioGestaoLocadora\obj\Debug\net8.0\ExercicioGestaoLocadora.pdb
+C:\Users\ricardo.soares\CSharp\Lista de exercicios - POO\ExercicioGestaoLocadora\obj\Debug\net8.0\ExercicioGestaoLocadora.genruntimeconfig.cache
+C:\Users\ricardo.soares\CSharp\Lista de exercicios - POO\ExercicioGestaoLocadora\obj\Debug\net8.0\ref\ExercicioGestaoLocadora.dll
